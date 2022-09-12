@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Concept_recall/static/css/main.abd64e84.css",
+    "main.js": "/React_Concept_recall/static/js/main.deb3b070.js",
+    "index.html": "/React_Concept_recall/index.html",
+    "main.abd64e84.css.map": "/React_Concept_recall/static/css/main.abd64e84.css.map",
+    "main.deb3b070.js.map": "/React_Concept_recall/static/js/main.deb3b070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.deb3b070.js"
+  ]
+}
